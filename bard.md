@@ -1,6 +1,4 @@
-Sure! Here's a similar README for a chatbot integrating with the Bard API:
 
-```markdown
 # Bard Chatbot - Creative Text Generation with Bard API
 
 Bard Chatbot is an innovative text generation tool that utilizes the power of the Bard API to create creative and contextually relevant responses to user prompts. This repository provides the necessary source code and instructions to set up and run the Bard Chatbot on your local machine.
