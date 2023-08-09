@@ -1,4 +1,5 @@
 # Genius Bot - AI Chatbot
+
 # 1. Genius Bot - AI Chatbot with GPT-3.5 Integration
 
 Genius Bot is an advanced AI-powered chatbot that leverages the power of OpenAI's GPT-3.5 model to provide intelligent and human-like responses to user inputs. This repository contains the source code and instructions to set up and run Genius Bot on your local machine.
